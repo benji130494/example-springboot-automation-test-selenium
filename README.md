@@ -1,4 +1,4 @@
-# Basic Spring Boot Automation Test Example
+# Basic Spring Boot Automation Test Example  
 
 A basic example of an automation test using Spring Boot, Thymeleaf and Selenium.
 
