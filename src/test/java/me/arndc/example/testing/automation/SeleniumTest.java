@@ -44,7 +44,7 @@ public class SeleniumTest {
     @Test
     public void test() throws InterruptedException {
         
-    	driver.get("http://192.168.2.12:8080");
+    	driver.get("http://192.168.2.22:8080");
     	
     	assertTrue(driver.getTitle().equalsIgnoreCase("Spring Demo Project"));
 
